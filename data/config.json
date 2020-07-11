@@ -1,0 +1,13 @@
+{
+  "owner": ["621470245143445504"],
+  "loading": "🔄",
+  "success": "✔️",
+  "error": "❌",
+  "defaultColor": "#48BEEC",
+  "errorColor": "#FF5042",
+  "successColor": "#2ECC71",
+  "rankUp": "<:up:643249191631454248>",
+  "invite": "https://discord.gg/rApKP2J",
+  "youtubeapi": "AIzaSyCqLbCuQF55NQMANbUe__op75Gt9RDk-ms",
+  "db": "mongodb+srv://soul:RvENGEXYZ1@soul-rwn8i.mongodb.net/Soul?retryWrites=true&w=majority"
+}
